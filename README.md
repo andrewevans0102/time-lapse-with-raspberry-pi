@@ -1,6 +1,6 @@
 # Time Lapse with Raspberry Pi
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/by9RYVOoAqg/0.jpg)](https://www.youtube.com/watch?v=by9RYVOoAqg)
+[![Raspberry Pi Time Lapse Snowfall](https://img.youtube.com/vi/by9RYVOoAqg/0.jpg)](https://www.youtube.com/watch?v=by9RYVOoAqg)
 
 This project creates time lapse videos with a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) and a [Logitech USB Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/ref=sr_1_12?dchild=1&keywords=logitech+webcam&qid=1612213441&sr=8-12). I created the above YouTube video of a recent snowfall we had here in Richmond, Va. Check out this video and more on the [Rhythm and Binary YouTube Channel](https://www.youtube.com/channel/UCvAKKewP_o2l3XnwDzSxftw).
 
@@ -8,7 +8,9 @@ This project also has instructions on how to use the [Raspberry Pi Camera Module
 
 There is a blog post that walks through most of this project at [https://rhythmandbinary.com/post/2021-02-01-creating-a-time-lapse-video-with-a-raspberry-pi](https://rhythmandbinary.com/post/2021-02-01-creating-a-time-lapse-video-with-a-raspberry-pi).
 
-There is also an accompanying video that explains this more in depth on YouTube.
+There is also an accompanying video on the [Rhythm and Binary YouTube Channel](https://www.youtube.com/channel/UCvAKKewP_o2l3XnwDzSxftw) that covers this project
+
+[![Raspberry Pi Time Lapse](https://img.youtube.com/vi/pftSCQCqJi0/0.jpg)](https://www.youtube.com/watch?v=pftSCQCqJi0)
 
 ## Required Materials
 
