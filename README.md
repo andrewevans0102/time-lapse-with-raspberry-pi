@@ -17,7 +17,7 @@ There is also an accompanying video on the [Rhythm and Binary YouTube Channel](h
 - [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 - [USB Power Supply for Raspberry Pi](https://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Listed/dp/B00MARDJZ4/ref=sr_1_3?dchild=1&keywords=raspberry+pi+usb+power+supply&qid=1612213467&sr=8-3)
 - [16 GB SD Card](https://www.amazon.com/Gigastone-10-Pack-Camera-MicroSD-Adapter/dp/B089288NQK/ref=sr_1_9?dchild=1&keywords=16gb+micro+sd+card&qid=1612213510&sr=8-9)
-- [USB Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/ref=sr_1_12?dchild=1&keywords=logitech+webcam&qid=1612213441&sr=8-12).
+- [USB Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/ref=sr_1_12?dchild=1&keywords=logitech+webcam&qid=1612213441&sr=8-12)
 - [Raspberry Pi Camera Module (only if you want to use PiCamera Library)](https://www.raspberrypi.org/products/camera-module-v2/)
 - [Raspberry Pi Zero W Camera Module Cable (only if you want to use PiCamera Library)](https://www.amazon.com/dp/B07SM6JTTM/ref=cm_sw_r_tw_dp_M3GZDDAA80NNZWHY6K8Z?_encoding=UTF8&psc=1)
 
